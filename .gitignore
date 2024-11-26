@@ -2,4 +2,4 @@
 .terraform.lock.hcl
 terraform.tfstate*
 *.tfvars
-secret.txt
+secrets.txt
